@@ -1,1 +1,1 @@
-This is Vadim's first git project
+This is Vadim's second project
